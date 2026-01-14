@@ -15,4 +15,14 @@ Participate more in LARC and ask about the parts you don't understand.
 8. It should be changed to playerTransform
 
 #### Activity3
-https://docs.google.com/document/d/1xLpjOiC1mLK6nAbB_YaibtbYXvQONX3D-RQwwT5zzg4/edit?tab=t.0
+https://docs.google.com/document/d/1xLpjOiC1mLK6nAbB_YaibtbYXvQONX3D-RQwwT5zzg4/edit?tab=t.0![c965865ad01ef78e2060e0bbefe3c7a8](https://github.com/user-
+
+
+### W2
+#### Activity1
+
+[MG1 breakdown Google doc] 
+(https://docs.google.com/document/d/1ROcUxkkaJtYDzNyL0CMq4DnDnnZqHXZwwBghimc3QGE/edit?tab=t.0)
+
+#### Activity2
+
