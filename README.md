@@ -21,8 +21,11 @@ https://docs.google.com/document/d/1xLpjOiC1mLK6nAbB_YaibtbYXvQONX3D-RQwwT5zzg4/
 ### W2
 #### Activity1
 
-[MG1 breakdown Google doc] 
+[MG2 breakdown Google doc] 
 (https://docs.google.com/document/d/1ROcUxkkaJtYDzNyL0CMq4DnDnnZqHXZwwBghimc3QGE/edit?tab=t.0)
 
 #### Activity2
+[MG2 Update]
+(https://docs.google.com/document/d/1ROcUxkkaJtYDzNyL0CMq4DnDnnZqHXZwwBghimc3QGE/edit?tab=t.0)
 
+I created the "player" and "coin" prefabs and placed them on the screen.
