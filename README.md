@@ -28,4 +28,5 @@ https://docs.google.com/document/d/1xLpjOiC1mLK6nAbB_YaibtbYXvQONX3D-RQwwT5zzg4/
 [MG2 Update]
 (https://docs.google.com/document/d/1ROcUxkkaJtYDzNyL0CMq4DnDnnZqHXZwwBghimc3QGE/edit?tab=t.0)
 
-I created the "player" and "coin" prefabs and placed them on the screen.
+I created the "player" and "coin" prefabs and add components to them, Create a TextMeshPro to count the score that player earned. 
+I also create a ground that player to sit.
