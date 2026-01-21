@@ -33,4 +33,10 @@ I also create a ground that player to sit.
 
 
 ### W3
-### Partner name: Nathan
+### Activities 0-2 : Partner name: Nathan
+
+#### Activity 3
+
+[MG3 breakdown]
+
+![9a9d6f6f9c11040a007897711285b785](https://github.com/user-attachments/assets/0e2899f4-be62-4962-80fc-1d4950c93617)
