@@ -25,8 +25,7 @@ https://docs.google.com/document/d/1xLpjOiC1mLK6nAbB_YaibtbYXvQONX3D-RQwwT5zzg4/
 (https://docs.google.com/document/d/1ROcUxkkaJtYDzNyL0CMq4DnDnnZqHXZwwBghimc3QGE/edit?tab=t.0)
 
 #### Activity2
-[MG2 Update]
-(https://docs.google.com/document/d/1ROcUxkkaJtYDzNyL0CMq4DnDnnZqHXZwwBghimc3QGE/edit?tab=t.0)
+[MG2 Update](https://docs.google.com/document/d/1ROcUxkkaJtYDzNyL0CMq4DnDnnZqHXZwwBghimc3QGE/edit?tab=t.0)
 
 I created the "player" and "coin" prefabs and add components to them, Create a TextMeshPro to count the score that player earned. 
 I also create a ground that player to sit.
@@ -37,11 +36,11 @@ I also create a ground that player to sit.
 
 #### Activity 3
 
-[MG3 breakdown]
-(![9a9d6f6f9c11040a007897711285b785](https://github.com/user-attachments/assets/0e2899f4-be62-4962-80fc-1d4950c93617)
+[MG3 breakdown](![9a9d6f6f9c11040a007897711285b785](https://github.com/user-attachments/assets/0e2899f4-be62-4962-80fc-1d4950c93617)
 
 ### W4
-#### Activity 0 : Andrew 
+#### Activity 0
+Andrew 
 
 #### Activity 1 : singleton will delete the remaining locators and leave the first 
 
