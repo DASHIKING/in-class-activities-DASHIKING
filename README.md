@@ -25,8 +25,7 @@ https://docs.google.com/document/d/1xLpjOiC1mLK6nAbB_YaibtbYXvQONX3D-RQwwT5zzg4/
 (https://docs.google.com/document/d/1ROcUxkkaJtYDzNyL0CMq4DnDnnZqHXZwwBghimc3QGE/edit?tab=t.0)
 
 #### Activity2
-[MG2 Update]
-(https://docs.google.com/document/d/1ROcUxkkaJtYDzNyL0CMq4DnDnnZqHXZwwBghimc3QGE/edit?tab=t.0)
+[MG2 Update](https://docs.google.com/document/d/1ROcUxkkaJtYDzNyL0CMq4DnDnnZqHXZwwBghimc3QGE/edit?tab=t.0)
 
 I created the "player" and "coin" prefabs and add components to them, Create a TextMeshPro to count the score that player earned. 
 I also create a ground that player to sit.
@@ -36,9 +35,18 @@ I also create a ground that player to sit.
 ### Activities 0-2 : Partner name: Nathan
 
 #### Activity 3
-
-[MG3 breakdown]
 (![9a9d6f6f9c11040a007897711285b785](https://github.com/user-attachments/assets/0e2899f4-be62-4962-80fc-1d4950c93617)
 
 ### W4
-#### Activity 0 : Andrew Hsur
+#### Activity 0
+Andrew 
+
+#### Activity 1 
+singleton will delete the remaining locators and leave the first 
+
+#### Activity 2 
+![cbe541403a49569be348844191fbe85e](https://github.com/user-attachments/assets/6fbc7096-55e3-43f2-b6f6-349c32f55aa1)
+
+### Activity 3 
+I created the "player" character and wrote the code for its jumping function. I also downloaded the resources of the birds and the pipes from the Internet and incorporated them into Unity.
+
