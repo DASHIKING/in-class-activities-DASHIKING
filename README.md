@@ -47,5 +47,5 @@ I also create a ground that player to sit.
 
 #### Activity 2 : ![cbe541403a49569be348844191fbe85e](https://github.com/user-attachments/assets/6fbc7096-55e3-43f2-b6f6-349c32f55aa1)
 
-### Activity 3 : 
+### Activity 3 : I created the "player" character and wrote the code for its jumping function. I also downloaded the resources of the birds and the pipes from the Internet and incorporated them into Unity.
 
