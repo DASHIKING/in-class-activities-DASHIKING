@@ -41,4 +41,11 @@ I also create a ground that player to sit.
 (![9a9d6f6f9c11040a007897711285b785](https://github.com/user-attachments/assets/0e2899f4-be62-4962-80fc-1d4950c93617)
 
 ### W4
-#### Activity 0 : Andrew Hsur
+#### Activity 0 : Andrew 
+
+#### Activity 1 : singleton will delete the remaining locators and leave the first 
+
+#### Activity 2 : ![cbe541403a49569be348844191fbe85e](https://github.com/user-attachments/assets/6fbc7096-55e3-43f2-b6f6-349c32f55aa1)
+
+
+
