@@ -49,4 +49,4 @@ singleton will delete the remaining locators and leave the first
 
 ### Activity 3 
 I created the "player" character and wrote the code for its jumping function. I also downloaded the resources of the birds and the pipes from the Internet and incorporated them into Unity.
-
+(https://github.com/DASHIKING/HW4/commit/376c267501b48e088837f41c5f3bf109ecffa0df)
