@@ -76,4 +76,5 @@ The script objects should contain ability data, character stats etc.
 
 ### Activity 4
 Attendence: Beiduo Jin
+
 [Final project proposal](https://docs.google.com/document/d/1KHzQUOe_9pFKEXuYQW5sSsAkWXeVOPrjhrICp1-lh7M/edit?usp=sharing)
