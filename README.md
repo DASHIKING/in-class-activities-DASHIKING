@@ -56,16 +56,24 @@ I created the "player" character and wrote the code for its jumping function. I 
 I think the interface and abstract class design in this assignment is quite clear. The "Item" class is responsible for "all items can be used", and the "IBreakable" class is responsible for "some items will break". This separation is quite reasonable. If new items need to be added in the future, it's also very easy to expand: items that can break implement the interface, and those that cannot break only inherit from the "Item" class. If I were to do a project myself, I would probably use a similar structure, but I might put some repetitive durability logic in the parent class to make the subclasses more convenient.
 
 ### Activity 2
-
+The player statistics of demo2 will be model, the spriterender and UI will be View, and the Player script, which contains move and collider should be the controller.
 
 ### Activity 3
 
 #### Scenario 1
 
 #### Scenario 2
+For scenario 2, model should be players should have same HP and walking speed, view will be player's appearences, and the controller should be the logic of the game, like shoot enemys to get success.
+we should use abstract base class for shared character behavior. Apart from that, we should use interface to design different shooting abilities. 
+Polymorphism allows each character to override specific behaviors.Parent base could be the character base, and the child base could be specific character that the game contains.
+The character should have multiple states, such as walking, running, falling down, and charging with electricity, etc.
+Singleton should contain UI managers, abilities managers and audio managers etc.
+The script objects should contain ability data, character stats etc.
+
 
 #### Scenario 3
 
 
 ### Activity 4
 Attendence: Beiduo Jin
+[Final project proposal](https://docs.google.com/document/d/1KHzQUOe_9pFKEXuYQW5sSsAkWXeVOPrjhrICp1-lh7M/edit?usp=sharing)
