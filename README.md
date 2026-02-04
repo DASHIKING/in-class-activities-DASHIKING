@@ -50,3 +50,16 @@ singleton will delete the remaining locators and leave the first
 ### Activity 3 
 I created the "player" character and wrote the code for its jumping function. I also downloaded the resources of the birds and the pipes from the Internet and incorporated them into Unity.
 (https://github.com/DASHIKING/HW4/commit/376c267501b48e088837f41c5f3bf109ecffa0df)
+
+### W5
+#### Actiity 1
+I think the interface and abstract class design in this assignment is quite clear. The "Item" class is responsible for "all items can be used", and the "IBreakable" class is responsible for "some items will break". This separation is quite reasonable. If new items need to be added in the future, it's also very easy to expand: items that can break implement the interface, and those that cannot break only inherit from the "Item" class. If I were to do a project myself, I would probably use a similar structure, but I might put some repetitive durability logic in the parent class to make the subclasses more convenient.
+
+### Activity 2
+
+
+### Activity 3
+
+
+### Activity 4
+Attendence: Beiduo Jin
