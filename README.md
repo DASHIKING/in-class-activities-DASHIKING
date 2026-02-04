@@ -60,6 +60,12 @@ I think the interface and abstract class design in this assignment is quite clea
 
 ### Activity 3
 
+#### Scenario 1
+
+#### Scenario 2
+
+#### Scenario 3
+
 
 ### Activity 4
 Attendence: Beiduo Jin
