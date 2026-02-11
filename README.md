@@ -80,9 +80,11 @@ Attendence: Beiduo Jin
 [Final project proposal](https://docs.google.com/document/d/1KHzQUOe_9pFKEXuYQW5sSsAkWXeVOPrjhrICp1-lh7M/edit?usp=sharing)
 
 ### W6
-1. Talk : Narrative Writing / Technical Art,   Speaker's name : Cory Lanham
+#### Actiity 1
+Talk : Narrative Writing / Technical Art,   Speaker's name : Cory Lanham
 
-2. Notes:
+#### Actiity 2
+
 –Look for work in another department -- 	In-house QA team.
 
 -internships
