@@ -80,5 +80,5 @@ Attendence: Beiduo Jin
 [Final project proposal](https://docs.google.com/document/d/1KHzQUOe_9pFKEXuYQW5sSsAkWXeVOPrjhrICp1-lh7M/edit?usp=sharing)
 
 ### W6
-Talk : Narrative Writing / Technical Art   Speaker's name : Cory Lanham
+Talk : Narrative Writing / Technical Art,   Speaker's name : Cory Lanham
 
