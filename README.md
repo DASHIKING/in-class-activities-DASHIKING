@@ -80,12 +80,10 @@ Attendence: Beiduo Jin
 [Final project proposal](https://docs.google.com/document/d/1KHzQUOe_9pFKEXuYQW5sSsAkWXeVOPrjhrICp1-lh7M/edit?usp=sharing)
 
 ### W6
-Talk : Narrative Writing / Technical Art,   Speaker's name : Cory Lanham
+1. Talk : Narrative Writing / Technical Art,   Speaker's name : Cory Lanham
 
-Notes:
-–Look for work in another department
-
-	In-house QA team.
+2. Notes:
+–Look for work in another department -- 	In-house QA team.
 
 -internships
 
@@ -106,4 +104,5 @@ Industry—- The game writing guide
 Websites:
 
 GameOBS.co
+
 Crackleho.com
