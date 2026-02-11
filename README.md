@@ -85,7 +85,8 @@ Talk : Narrative Writing / Technical Art,   Speaker's name : Cory Lanham
 Notes:
 –Look for work in another department
 
-	###In-house QA team.
+	In-house QA team.
+	
 -internships
 -Look for opportunities to help narrative team
 
