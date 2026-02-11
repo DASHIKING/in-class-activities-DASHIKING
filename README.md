@@ -82,23 +82,23 @@ Attendence: Beiduo Jin
 ### W6
 Talk : Narrative Writing / Technical Art,   Speaker's name : Cory Lanham
 
-#Notes:
-##–Look for work in another department
+Notes:
+–Look for work in another department
 
 	###In-house QA team.
-##-internships
-##-Look for opportunities to help narrative team
+-internships
+-Look for opportunities to help narrative team
 
 -##Build portfolio—-make a game alone or with others
--
+
 -Networking—-IGDA community helps
 
-##Resources:
+Resources:
 
 Book—- video game storytelling, The game narrative toolbox
 Industry—- The game writing guide
 
-##Websites:
+Websites:
 
 GameOBS.co
 Crackleho.com
