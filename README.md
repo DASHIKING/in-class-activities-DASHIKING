@@ -114,6 +114,8 @@ Crackleho.com
 #### Activity1
 
 #### Activity2
-attendence: mira, sahasra, beiduo, luis
+Attendence: mira, sahasra, beiduo, luis
 
-#### Activity13
+#### Activity3
+
+[Final project breakdown](<img width="1138" height="724" alt="image" src="https://github.com/user-attachments/assets/1ed0e5a3-70d1-452e-a554-7fe8785e9ca7" />)
