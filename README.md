@@ -108,3 +108,12 @@ Websites:
 GameOBS.co
 
 Crackleho.com
+
+
+### W7
+#### Activity1
+
+#### Activity2
+attendence: mira, sahasra, beiduo, luis
+
+#### Activity13
