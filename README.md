@@ -127,6 +127,6 @@ Attendence: Sahasra Vytla, Mira Liu, Beiduo Jin, Luis Chavarin
 I will do the audio and game controller code part
 
 #### Activity5
-[https://github.com/svytla07/GDIM32-Final/commit/1c8e49fe8cc9f03393051377fcce0a6a570474dd]
 
-I created the script for the "player" character and completed the relevant part of the player script.
+I created the script for the "player" character and completed the relevant part of the player script. 
+(https://github.com/svytla07/GDIM32-Final/commit/1c8e49fe8cc9f03393051377fcce0a6a570474dd)
