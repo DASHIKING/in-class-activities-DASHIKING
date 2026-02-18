@@ -112,10 +112,16 @@ Crackleho.com
 
 ### W7
 #### Activity1
+We could use different color to indicate the states of the npcs.
+
+We could dedect whether npc or the player collide with obstacles and change the direction atmomaticlly.
 
 #### Activity2
 Attendence: mira, sahasra, beiduo, luis
 
 #### Activity3
 
-[Final project breakdown](<img width="1138" height="724" alt="image" src="https://github.com/user-attachments/assets/1ed0e5a3-70d1-452e-a554-7fe8785e9ca7" />)
+[Final project breakdown](https://docs.google.com/drawings/d/1UIIzl_sxNkInFeA4OzxTQlEIDgO7bRfIKndRX43xo8Q/edit)
+
+#### Activity4
+I will do the audio and game controller code part
