@@ -117,7 +117,7 @@ We could use different color to indicate the states of the npcs.
 We could dedect whether npc or the player collide with obstacles and change the direction atmomaticlly.
 
 #### Activity2
-Attendence: mira, sahasra, beiduo, luis
+Attendence: Sahasra Vytla, Mira Liu, Beiduo Jin, Luis Chavarin
 
 #### Activity3
 
